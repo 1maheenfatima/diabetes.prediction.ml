@@ -1,1 +1,1 @@
-# diabetes.prediction.ml
+https://www.kaggle.com/maheenfatima1/diabetes-prediction-ml
